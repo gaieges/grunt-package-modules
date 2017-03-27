@@ -40,6 +40,6 @@
     "node_modules"
   ],
   "dependencies": {
-    "npm": "^2.5.1"
+    "npm": "^4.4.4"
   }
 }
